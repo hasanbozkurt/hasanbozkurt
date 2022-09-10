@@ -3,6 +3,7 @@ Hi, Welcome to my profile. 👋, I'm Hasan Bozkurt.
 
 - 🔭 I’m currently working on programming
 - 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning React Native
 
 <a href="#">![](https://komarev.com/ghpvc/?username=hasanbozkurt)</a>
 
