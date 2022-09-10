@@ -19,7 +19,7 @@ Languages and Tools:
 <a href="https://www.php.net/images/logos/new-php-logo.svg" rel="nofollow"> <img src="https://www.php.net/images/logos/new-php-logo.svg" alt="php" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://laravel.com/img/logomark.min.svg" rel="nofollow"> <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" rel="nofollow"> <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="c#" width="40" height="40" style="max-width: 100%;"> </a>
-<a href="[https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png](https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png)" rel="nofollow"> <img src="[https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png](https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png)" alt="React Native" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png" rel="nofollow"> <img src="https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png" alt="React Native" width="40" height="40" style="max-width: 100%;"> </a>
 </p>
 
 
