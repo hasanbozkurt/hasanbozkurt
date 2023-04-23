@@ -1,6 +1,6 @@
 ## Hello, I am Hasan Bozkurt. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2%">
 
-I am web Developer. <br/>
+I am Web Developer. <br/>
 <img src="https://komarev.com/ghpvc/?username=hasanbozkurt&&style=flat-square" align="center" />
 
 ## 🔗 **Contact**
