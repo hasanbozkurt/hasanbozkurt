@@ -1,25 +1,22 @@
-Hi, Welcome to my profile. 👋, I'm Hasan Bozkurt.
+## Hello, I am Hasan Bozkurt. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2%">
 
+I am web Developer. <br/>
+<img src="https://komarev.com/ghpvc/?username=hasanbozkurt&&style=flat-square" align="center" />
 
-- 🔭 I’m currently working on programming
-- 🌱 I’m currently learning Laravel
-
-<a href="#">![](https://komarev.com/ghpvc/?username=hasanbozkurt)</a>
-
-Connect with me:
-<p align="left" dir="auto">
+## 🔗 **Contact**
 <a href="https://www.linkedin.com/in/hasanbozkurtua/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hasan Bozkurt" height="30" width="40" style="max-width: 100%;"></a>
 <a href="https://twitter.com/hasanbozkurtua" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hasanbozkurtua" height="30" width="40" style="max-width: 100%;"></a>
 <a href="https://instagram.com/hasanbozkurtua" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hasanbozkurtua" height="30" width="40" style="max-width: 100%;"></a>
-<a href="https://open.spotify.com/user/6ee7us5a6n80bbmzf1n5r0oxr?si=45f235d04fc9451a" rel="nofollow"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png" alt="hasanbozkurtua" height="30" width="40" style="max-width: 100%;"></a>
-</p>
-
-Languages and Tools:
-<p align="left" dir="auto"> <a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a>
-<a href="https://www.php.net/images/logos/new-php-logo.svg" rel="nofollow"> <img src="https://www.php.net/images/logos/new-php-logo.svg" alt="php" width="40" height="40" style="max-width: 100%;"> </a>
-<a href="https://laravel.com/img/logomark.min.svg" rel="nofollow"> <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40" style="max-width: 100%;"> </a>
-<a href="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" rel="nofollow"> <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="c#" width="40" height="40" style="max-width: 100%;"> </a>
-<!-- <a href="https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png" rel="nofollow"> <img src="https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png" alt="React Native" width="40" height="40" style="max-width: 100%;"> </a> -->
-</p>
 
 
+## 🔖 **Languages and Tools**
+
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![image](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=FFE300)
+![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![image](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+## 🔎 **GitHub Status**
+<img src="https://github-readme-stats.vercel.app/api?username=hasanbozkurt&show_icons=true&theme=tokyonight" align="left" style="width: 50%" /><br/>
